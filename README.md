@@ -2,7 +2,7 @@
 
 # Pre-work - *TipCalcMAS*
 
-**TipCalcMAS* is a tip calculator application for iOS.
+**TipCalcMAS** is a tip calculator application for iOS.
 
 Submitted by: **Makaiya Smith**
 
