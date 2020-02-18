@@ -2,7 +2,7 @@
 
 # Pre-work - *TipCalcMAS*
 
-**Name of your app** is a tip calculator application for iOS.
+**TipCalcMAS* is a tip calculator application for iOS.
 
 Submitted by: **Makaiya Smith**
 
@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/X7E7vixo6g.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/bCaWFqsODZ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
